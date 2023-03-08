@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: eeaad1423a1bbb44896350005448b9eb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - coinSFX: {instanceID: 0}
+  - dobleJumpSFX: {instanceID: 0}
+  - jumpSFX: {instanceID: 0}
+  - powerUpDobleJumpSFX: {instanceID: 0}
+  - powerUpShieldSFX: {instanceID: 0}
+  - shieldBreakSFX: {instanceID: 0}
+  - gameOverHitSFX: {instanceID: 0}
+  - landSFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
